@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Sistema de riego operativo"
+    return "Sistema de riego inteligente funcionando correctamente"
